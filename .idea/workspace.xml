@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c505c703-6d0b-4a41-9ef5-c03aaadca154" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lino-luca-ebook" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3DMfQuXzmNtoSPZUzU1q3zwIfPA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Perso/BUT/Annee3/PPP/LinoLucaEbook.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Perso\\BUT\\Annee3\\PPP\\LinoLucaEbook.github.io\\lino-luca-ebook\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Perso\BUT\Annee3\PPP\LinoLucaEbook.github.io" />
+      <recent name="E:\Perso\BUT\Annee3\PPP\EbookAngular\lino-luca-ebook\public\internship" />
+      <recent name="E:\Perso\BUT\Annee3\PPP\EbookAngular\lino-luca-ebook\public\tisser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Perso\BUT\Annee3\PPP\LinoLucaEbook.github.io" />
+      <recent name="E:\Perso\BUT\Annee3\PPP\EbookAngular\lino-luca-ebook\public\clapcast" />
+      <recent name="E:\Perso\BUT\Annee3\PPP\EbookAngular\lino-luca-ebook\public" />
+      <recent name="E:\Perso\BUT\Annee3\PPP\EbookAngular\lino-luca-ebook\src\app\Components" />
+      <recent name="E:\Perso\BUT\Annee3\PPP\EbookAngular\lino-luca-ebook\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c505c703-6d0b-4a41-9ef5-c03aaadca154" name="Changes" comment="" />
+      <created>1778096847089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778096847089</updated>
+      <workItem from="1778096848404" duration="1579000" />
+      <workItem from="1779986450321" duration="7341000" />
+      <workItem from="1780216424675" duration="4248000" />
+      <workItem from="1780230509892" duration="18577000" />
+      <workItem from="1780260787155" duration="1735000" />
+      <workItem from="1780262786856" duration="1060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
